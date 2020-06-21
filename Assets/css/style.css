@@ -1,7 +1,11 @@
-h1{
-    text-align: center;
-}
+.timer {
+    float: right;
+    margin-top: -18px;
+  }
 
-p{
+.wrapper {
+    margin-bottom: 200px;
+    max-width: 600px;
+    margin-left: 250px;
     text-align: center;
 }
