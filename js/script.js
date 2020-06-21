@@ -1,3 +1,7 @@
+var timer = document.getElementById('time');
+var questions = document.getElementById("questions");
+var startButton = document.getElementById('startbutton'); 
+
 var questions = [
     {
       question: "Commonly used data types DO NOT include :",
