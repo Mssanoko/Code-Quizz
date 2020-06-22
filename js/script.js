@@ -62,6 +62,7 @@ timer.addEventListener("click", function () {
             }
         }, 1000);
     }
+    wrapper.style.display = "none"; 
     render(questionIndex);
 });
 
