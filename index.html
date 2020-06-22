@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Coding Quiz</title>
     <link rel="stylesheet" type="text/css" href="Assets/css/style.css" />
+
   </head>
 
   <body>
@@ -14,7 +15,7 @@
     <div class="timer">Time: <span id="currentTime">0</span></div>
 
     <div id="wrapper">
-      <div id="currentTime" class="start">
+      <div class="start">
         <h1>Coding Quiz Challenge</h1>
         <p>
           Try to answer the following code-related questions within the time
@@ -25,6 +26,11 @@
         <button id="startTime">Start Quiz</button>
       </div>
     </div>
+   
+    <div id="questionsDiv" class="hide">
+    </div>
+
+<script src="js/highscores.js"></script>
     <script src="js/script.js"></script>
   </body>
 </html>
