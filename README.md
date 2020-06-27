@@ -1,5 +1,8 @@
 # Code-Quizz
 
+Link of my github page : https://mssanoko.github.io/Code-Quizz/index.html
+
+
 You will find 2 html pages : 
 
 * index.html : Contains landing page to start timer 

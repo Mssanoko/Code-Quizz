@@ -99,7 +99,7 @@ function compare(event) {
         } else {
             // Will deduct -5 seconds off secondsLeft for wrong answers
             secondsLeft = secondsLeft - penalty;
-            createDiv.textContent = "Wrong!"
+            createDiv.textContent = "Wrong Answer!"
         }
 
     }
